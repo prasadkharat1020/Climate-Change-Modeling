@@ -33,5 +33,3 @@ This project leverages machine learning to model and predict climate change patt
 2. Open in VS Code or Jupyter Notebook  
 3. Run `climate_model.ipynb` for model training and visualization
 
-## 📎 License
-This project is open-source under the MIT License.
